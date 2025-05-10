@@ -1,0 +1,1013 @@
+Employee_ID,Timestamp,Emotion,Task_Suggestion,Stress_Alert
+EMP001,2025-03-02 06:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP002,2025-03-02 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP003,2025-03-02 06:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP004,2025-03-02 09:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-03-02 08:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP006,2025-03-02 04:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP007,2025-03-02 06:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP008,2025-03-02 09:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP009,2025-03-02 07:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP010,2025-03-02 05:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP011,2025-03-02 05:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP012,2025-03-02 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP013,2025-03-02 13:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP014,2025-03-02 08:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP015,2025-03-02 12:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP016,2025-03-02 09:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP017,2025-03-02 06:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP018,2025-03-02 11:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP019,2025-03-02 11:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP020,2025-03-02 09:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-03-03 04:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP002,2025-03-03 09:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP003,2025-03-03 11:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP004,2025-03-03 11:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP005,2025-03-03 13:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP006,2025-03-03 05:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP007,2025-03-03 06:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP008,2025-03-03 07:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP009,2025-03-03 08:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP010,2025-03-03 08:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP011,2025-03-03 05:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP012,2025-03-03 04:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP013,2025-03-03 07:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP014,2025-03-03 13:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP015,2025-03-03 04:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP016,2025-03-03 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP017,2025-03-03 04:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP018,2025-03-03 12:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP019,2025-03-03 10:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP020,2025-03-03 07:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-03-04 07:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP002,2025-03-04 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP003,2025-03-04 12:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP004,2025-03-04 10:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP005,2025-03-04 07:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP006,2025-03-04 12:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP007,2025-03-04 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP008,2025-03-04 09:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP009,2025-03-04 09:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP010,2025-03-04 09:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP011,2025-03-04 09:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP012,2025-03-04 10:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP013,2025-03-04 13:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP014,2025-03-04 11:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP015,2025-03-04 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP016,2025-03-04 11:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP017,2025-03-04 04:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP018,2025-03-04 08:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP019,2025-03-04 04:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP020,2025-03-04 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-03-05 09:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP002,2025-03-05 12:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP003,2025-03-05 12:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP004,2025-03-05 13:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP005,2025-03-05 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP006,2025-03-05 04:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP007,2025-03-05 12:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP008,2025-03-05 11:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP009,2025-03-05 04:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP010,2025-03-05 08:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP011,2025-03-05 06:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP012,2025-03-05 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP013,2025-03-05 12:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP014,2025-03-05 13:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP015,2025-03-05 09:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP016,2025-03-05 04:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP017,2025-03-05 10:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP018,2025-03-05 10:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP019,2025-03-05 08:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP020,2025-03-05 09:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-03-06 12:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP002,2025-03-06 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP003,2025-03-06 10:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP004,2025-03-06 09:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-03-06 06:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP006,2025-03-06 10:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP007,2025-03-06 12:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP008,2025-03-06 07:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP009,2025-03-06 04:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP010,2025-03-06 04:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP011,2025-03-06 04:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP012,2025-03-06 10:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP013,2025-03-06 05:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP014,2025-03-06 05:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP015,2025-03-06 11:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP016,2025-03-06 04:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP017,2025-03-06 06:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP018,2025-03-06 09:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP019,2025-03-06 09:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP020,2025-03-06 11:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP001,2025-03-07 12:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP002,2025-03-07 11:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP003,2025-03-07 08:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP004,2025-03-07 09:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP005,2025-03-07 07:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP006,2025-03-07 13:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP007,2025-03-07 06:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP008,2025-03-07 06:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP009,2025-03-07 06:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP010,2025-03-07 05:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP011,2025-03-07 04:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP012,2025-03-07 09:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP013,2025-03-07 13:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP014,2025-03-07 09:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP015,2025-03-07 06:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP016,2025-03-07 09:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP017,2025-03-07 11:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP018,2025-03-07 06:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP019,2025-03-07 10:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP020,2025-03-07 12:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-03-08 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP002,2025-03-08 08:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP003,2025-03-08 07:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP004,2025-03-08 06:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP005,2025-03-08 10:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP006,2025-03-08 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP007,2025-03-08 06:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP008,2025-03-08 06:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP009,2025-03-08 07:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP010,2025-03-08 10:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP011,2025-03-08 09:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP012,2025-03-08 09:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP013,2025-03-08 04:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP014,2025-03-08 07:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP015,2025-03-08 05:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP016,2025-03-08 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP017,2025-03-08 05:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP018,2025-03-08 09:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP019,2025-03-08 08:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP020,2025-03-08 05:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-03-09 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP002,2025-03-09 06:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP003,2025-03-09 10:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP004,2025-03-09 10:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-03-09 05:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP006,2025-03-09 12:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP007,2025-03-09 13:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP008,2025-03-09 04:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP009,2025-03-09 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP010,2025-03-09 07:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP011,2025-03-09 08:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP012,2025-03-09 11:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP013,2025-03-09 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP014,2025-03-09 05:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP015,2025-03-09 13:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP016,2025-03-09 13:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP017,2025-03-09 12:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP018,2025-03-09 12:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP019,2025-03-09 12:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP020,2025-03-09 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-03-10 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP002,2025-03-10 06:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP003,2025-03-10 08:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP004,2025-03-10 09:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP005,2025-03-10 12:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP006,2025-03-10 04:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP007,2025-03-10 11:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP008,2025-03-10 05:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP009,2025-03-10 06:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP010,2025-03-10 10:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP011,2025-03-10 13:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP012,2025-03-10 11:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP013,2025-03-10 13:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP014,2025-03-10 10:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP015,2025-03-10 11:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP016,2025-03-10 05:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP017,2025-03-10 09:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP018,2025-03-10 04:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP019,2025-03-10 12:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP020,2025-03-10 07:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-03-11 05:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP002,2025-03-11 11:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP003,2025-03-11 10:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP004,2025-03-11 04:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-03-11 08:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP006,2025-03-11 12:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP007,2025-03-11 09:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP008,2025-03-11 12:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP009,2025-03-11 10:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP010,2025-03-11 06:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP011,2025-03-11 07:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP012,2025-03-11 12:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP013,2025-03-11 07:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP014,2025-03-11 13:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP015,2025-03-11 07:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP016,2025-03-11 08:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP017,2025-03-11 08:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP018,2025-03-11 12:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP019,2025-03-11 07:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP020,2025-03-11 10:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-03-12 10:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP002,2025-03-12 07:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP003,2025-03-12 05:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP004,2025-03-12 06:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP005,2025-03-12 05:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP006,2025-03-12 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP007,2025-03-12 09:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP008,2025-03-12 11:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP009,2025-03-12 09:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP010,2025-03-12 06:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP011,2025-03-12 13:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP012,2025-03-12 12:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP013,2025-03-12 10:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP014,2025-03-12 08:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP015,2025-03-12 04:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP016,2025-03-12 07:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP017,2025-03-12 12:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP018,2025-03-12 10:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP019,2025-03-12 09:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP020,2025-03-12 04:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP001,2025-03-13 11:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP002,2025-03-13 10:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP003,2025-03-13 06:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP004,2025-03-13 08:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP005,2025-03-13 10:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP006,2025-03-13 08:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP007,2025-03-13 04:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP008,2025-03-13 07:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP009,2025-03-13 05:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP010,2025-03-13 09:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP011,2025-03-13 12:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP012,2025-03-13 12:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP013,2025-03-13 06:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP014,2025-03-13 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP015,2025-03-13 08:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP016,2025-03-13 11:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP017,2025-03-13 11:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP018,2025-03-13 04:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP019,2025-03-13 06:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP020,2025-03-13 09:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-03-14 08:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP002,2025-03-14 09:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP003,2025-03-14 04:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP004,2025-03-14 11:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP005,2025-03-14 07:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP006,2025-03-14 13:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP007,2025-03-14 06:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP008,2025-03-14 04:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP009,2025-03-14 11:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP010,2025-03-14 06:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP011,2025-03-14 08:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP012,2025-03-14 08:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP013,2025-03-14 04:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP014,2025-03-14 13:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP015,2025-03-14 12:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP016,2025-03-14 10:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP017,2025-03-14 08:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP018,2025-03-14 08:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP019,2025-03-14 08:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP020,2025-03-14 08:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-03-15 04:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP002,2025-03-15 06:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP003,2025-03-15 12:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP004,2025-03-15 10:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP005,2025-03-15 12:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP006,2025-03-15 12:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP007,2025-03-15 12:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP008,2025-03-15 12:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP009,2025-03-15 04:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP010,2025-03-15 12:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP011,2025-03-15 06:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP012,2025-03-15 09:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP013,2025-03-15 13:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP014,2025-03-15 13:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP015,2025-03-15 08:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP016,2025-03-15 10:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP017,2025-03-15 08:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP018,2025-03-15 13:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP019,2025-03-15 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP020,2025-03-15 06:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-03-16 10:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP002,2025-03-16 11:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP003,2025-03-16 07:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP004,2025-03-16 07:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-03-16 04:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP006,2025-03-16 13:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP007,2025-03-16 09:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP008,2025-03-16 08:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP009,2025-03-16 11:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP010,2025-03-16 08:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP011,2025-03-16 08:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP012,2025-03-16 05:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP013,2025-03-16 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP014,2025-03-16 09:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP015,2025-03-16 09:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP016,2025-03-16 10:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP017,2025-03-16 11:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP018,2025-03-16 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP019,2025-03-16 06:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP020,2025-03-16 13:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-03-17 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP002,2025-03-17 11:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP003,2025-03-17 11:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP004,2025-03-17 04:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP005,2025-03-17 05:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP006,2025-03-17 07:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP007,2025-03-17 11:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP008,2025-03-17 08:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP009,2025-03-17 05:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP010,2025-03-17 05:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP011,2025-03-17 08:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP012,2025-03-17 12:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP013,2025-03-17 13:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP014,2025-03-17 06:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP015,2025-03-17 12:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP016,2025-03-17 04:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP017,2025-03-17 05:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP018,2025-03-17 05:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP019,2025-03-17 05:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP020,2025-03-17 06:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-03-18 08:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP002,2025-03-18 10:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP003,2025-03-18 05:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP004,2025-03-18 07:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP005,2025-03-18 12:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP006,2025-03-18 09:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP007,2025-03-18 07:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP008,2025-03-18 05:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP009,2025-03-18 10:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP010,2025-03-18 08:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP011,2025-03-18 12:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP012,2025-03-18 05:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP013,2025-03-18 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP014,2025-03-18 10:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP015,2025-03-18 11:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP016,2025-03-18 09:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP017,2025-03-18 06:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP018,2025-03-18 10:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP019,2025-03-18 12:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP020,2025-03-18 12:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-03-19 07:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP002,2025-03-19 11:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP003,2025-03-19 12:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP004,2025-03-19 13:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP005,2025-03-19 05:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP006,2025-03-19 13:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP007,2025-03-19 11:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP008,2025-03-19 11:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP009,2025-03-19 05:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP010,2025-03-19 04:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP011,2025-03-19 04:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP012,2025-03-19 09:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP013,2025-03-19 12:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP014,2025-03-19 13:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP015,2025-03-19 06:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP016,2025-03-19 05:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP017,2025-03-19 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP018,2025-03-19 09:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP019,2025-03-19 11:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP020,2025-03-19 11:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP001,2025-03-20 13:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP002,2025-03-20 08:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP003,2025-03-20 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP004,2025-03-20 04:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-03-20 09:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP006,2025-03-20 10:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP007,2025-03-20 06:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP008,2025-03-20 13:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP009,2025-03-20 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP010,2025-03-20 07:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP011,2025-03-20 06:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP012,2025-03-20 06:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP013,2025-03-20 07:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP014,2025-03-20 10:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP015,2025-03-20 06:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP016,2025-03-20 07:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP017,2025-03-20 13:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP018,2025-03-20 11:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP019,2025-03-20 09:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP020,2025-03-20 11:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-03-21 04:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP002,2025-03-21 13:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP003,2025-03-21 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP004,2025-03-21 07:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-03-21 13:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP006,2025-03-21 08:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP007,2025-03-21 11:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP008,2025-03-21 06:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP009,2025-03-21 12:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP010,2025-03-21 09:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP011,2025-03-21 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP012,2025-03-21 13:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP013,2025-03-21 10:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP014,2025-03-21 12:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP015,2025-03-21 05:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP016,2025-03-21 04:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP017,2025-03-21 07:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP018,2025-03-21 06:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP019,2025-03-21 05:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP020,2025-03-21 07:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP001,2025-03-22 05:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP002,2025-03-22 10:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP003,2025-03-22 12:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP004,2025-03-22 10:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-03-22 08:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP006,2025-03-22 04:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP007,2025-03-22 13:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP008,2025-03-22 12:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP009,2025-03-22 13:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP010,2025-03-22 06:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP011,2025-03-22 08:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP012,2025-03-22 08:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP013,2025-03-22 04:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP014,2025-03-22 13:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP015,2025-03-22 05:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP016,2025-03-22 04:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP017,2025-03-22 10:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP018,2025-03-22 06:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP019,2025-03-22 08:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP020,2025-03-22 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-03-23 12:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP002,2025-03-23 05:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP003,2025-03-23 09:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP004,2025-03-23 10:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-03-23 12:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP006,2025-03-23 09:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP007,2025-03-23 11:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP008,2025-03-23 04:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP009,2025-03-23 10:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP010,2025-03-23 12:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP011,2025-03-23 12:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP012,2025-03-23 04:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP013,2025-03-23 08:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP014,2025-03-23 07:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP015,2025-03-23 12:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP016,2025-03-23 11:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP017,2025-03-23 08:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP018,2025-03-23 12:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP019,2025-03-23 05:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP020,2025-03-23 11:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-03-24 10:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP002,2025-03-24 12:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP003,2025-03-24 08:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP004,2025-03-24 11:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP005,2025-03-24 06:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP006,2025-03-24 04:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP007,2025-03-24 06:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP008,2025-03-24 06:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP009,2025-03-24 09:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP010,2025-03-24 10:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP011,2025-03-24 10:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP012,2025-03-24 05:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP013,2025-03-24 11:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP014,2025-03-24 07:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP015,2025-03-24 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP016,2025-03-24 11:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP017,2025-03-24 08:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP018,2025-03-24 08:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP019,2025-03-24 12:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP020,2025-03-24 12:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-03-25 11:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP002,2025-03-25 05:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP003,2025-03-25 04:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP004,2025-03-25 11:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-03-25 09:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP006,2025-03-25 05:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP007,2025-03-25 12:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP008,2025-03-25 04:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP009,2025-03-25 13:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP010,2025-03-25 13:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP011,2025-03-25 12:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP012,2025-03-25 09:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP013,2025-03-25 12:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP014,2025-03-25 11:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP015,2025-03-25 04:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP016,2025-03-25 05:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP017,2025-03-25 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP018,2025-03-25 04:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP019,2025-03-25 13:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP020,2025-03-25 06:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-03-26 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP002,2025-03-26 09:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP003,2025-03-26 06:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP004,2025-03-26 10:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-03-26 08:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP006,2025-03-26 13:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP007,2025-03-26 08:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP008,2025-03-26 08:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP009,2025-03-26 07:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP010,2025-03-26 10:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP011,2025-03-26 11:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP012,2025-03-26 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP013,2025-03-26 12:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP014,2025-03-26 08:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP015,2025-03-26 13:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP016,2025-03-26 05:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP017,2025-03-26 09:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP018,2025-03-26 12:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP019,2025-03-26 10:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP020,2025-03-26 04:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP001,2025-03-27 11:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP002,2025-03-27 05:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP003,2025-03-27 07:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP004,2025-03-27 07:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-03-27 07:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP006,2025-03-27 07:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP007,2025-03-27 04:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP008,2025-03-27 05:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP009,2025-03-27 06:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP010,2025-03-27 05:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP011,2025-03-27 10:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP012,2025-03-27 11:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP013,2025-03-27 13:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP014,2025-03-27 10:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP015,2025-03-27 08:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP016,2025-03-27 05:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP017,2025-03-27 09:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP018,2025-03-27 08:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP019,2025-03-27 09:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP020,2025-03-27 10:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-03-28 07:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP002,2025-03-28 06:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP003,2025-03-28 12:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP004,2025-03-28 08:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-03-28 12:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP006,2025-03-28 13:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP007,2025-03-28 12:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP008,2025-03-28 05:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP009,2025-03-28 08:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP010,2025-03-28 06:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP011,2025-03-28 09:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP012,2025-03-28 10:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP013,2025-03-28 05:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP014,2025-03-28 05:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP015,2025-03-28 05:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP016,2025-03-28 08:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP017,2025-03-28 05:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP018,2025-03-28 07:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP019,2025-03-28 08:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP020,2025-03-28 09:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP001,2025-03-29 04:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP002,2025-03-29 11:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP003,2025-03-29 13:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP004,2025-03-29 10:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP005,2025-03-29 07:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP006,2025-03-29 11:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP007,2025-03-29 05:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP008,2025-03-29 08:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP009,2025-03-29 12:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP010,2025-03-29 05:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP011,2025-03-29 07:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP012,2025-03-29 04:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP013,2025-03-29 13:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP014,2025-03-29 07:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP015,2025-03-29 04:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP016,2025-03-29 06:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP017,2025-03-29 04:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP018,2025-03-29 05:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP019,2025-03-29 05:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP020,2025-03-29 06:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-03-30 12:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP002,2025-03-30 11:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP003,2025-03-30 05:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP004,2025-03-30 06:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-03-30 12:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP006,2025-03-30 07:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP007,2025-03-30 11:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP008,2025-03-30 11:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP009,2025-03-30 12:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP010,2025-03-30 13:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP011,2025-03-30 07:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP012,2025-03-30 10:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP013,2025-03-30 13:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP014,2025-03-30 11:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP015,2025-03-30 06:07:45.559460,stressed,Prioritize tasks and seek assistance if needed.,Yes
+EMP016,2025-03-30 11:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP017,2025-03-30 07:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP018,2025-03-30 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP019,2025-03-30 09:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP020,2025-03-30 10:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-03-31 07:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP002,2025-03-31 04:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP003,2025-03-31 11:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP004,2025-03-31 11:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-03-31 05:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP006,2025-03-31 04:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP007,2025-03-31 10:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP008,2025-03-31 11:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP009,2025-03-31 09:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP010,2025-03-31 10:07:45.559460,excited,Take on a challenging task or brainstorm ideas.,No
+EMP011,2025-03-31 09:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP012,2025-03-31 06:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP013,2025-03-31 08:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP014,2025-03-31 07:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP015,2025-03-31 06:07:45.559460,sad,Take a short break or engage in light tasks.,Yes
+EMP016,2025-03-31 07:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP017,2025-03-31 04:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP018,2025-03-31 08:07:45.559460,happy,Continue current work or collaborate on new ideas.,No
+EMP019,2025-03-31 10:07:45.559460,angry,Pause and do a relaxation exercise.,Yes
+EMP020,2025-03-31 10:07:45.559460,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-01 17:20:39.059038,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:25.839513,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-01 17:25:26.188801,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-01 17:25:26.731829,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-01 17:25:27.175058,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-01 17:25:27.566342,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:27.986816,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:28.444085,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:28.829943,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:29.238518,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:29.666662,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:30.052417,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:30.448367,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:30.836488,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:31.227089,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:31.606705,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:32.016697,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:32.468792,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:32.873833,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:33.286634,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:33.703818,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:34.106781,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:34.487298,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:34.883288,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:35.286276,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:35.699623,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:36.123187,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:36.546328,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:36.976761,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:37.388964,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:37.790384,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:38.178199,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:38.573227,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:38.981694,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:39.396512,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:39.821295,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:40.266938,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:40.636584,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:41.046843,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-01 17:25:41.453126,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-01 17:25:41.957380,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:47.441720,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:13:48.033591,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:48.585908,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:49.083719,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:49.595776,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:50.119853,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:50.750477,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:50.758808,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:51.328493,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:51.876141,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:52.418589,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:52.943897,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:53.451640,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:54.023889,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:54.516254,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:55.063546,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:55.622884,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:56.136381,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:56.737696,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:57.086368,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-02 16:13:57.700347,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:58.230205,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:58.763879,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:59.345506,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:13:59.896846,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:14:00.433736,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:14:00.948591,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:14:01.499674,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:14:02.043935,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:02.053963,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:02.583954,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:03.180567,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-02 16:14:03.705462,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-02 16:14:04.253647,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:04.813527,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-02 16:14:05.360594,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:05.889941,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:06.443784,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:06.453848,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-02 16:14:06.998048,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:07.548447,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:08.120508,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:08.667170,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:09.233632,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:09.743819,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:10.313705,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:10.813488,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:11.393652,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:11.969129,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:14:12.521504,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:16:09.083769,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:16:09.736841,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:16:10.362498,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:16:10.393791,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-02 16:16:10.943689,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:16:11.534088,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:16:12.187277,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:16:12.204376,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-02 16:16:12.774127,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:16:12.783717,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-02 16:16:13.319237,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:16:13.884020,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:16:13.893759,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-02 16:16:14.419072,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:16:14.931466,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:16:15.444604,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-02 16:16:15.935299,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:16:16.443767,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:16:16.947012,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:16:17.560568,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:16:18.127572,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:16:18.667333,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:16:19.244063,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:16:19.795903,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:16:20.383887,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:16:20.933654,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:16:21.494357,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-02 16:16:22.013750,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-02 16:16:22.549684,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-02 16:16:23.083905,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-02 16:16:23.603762,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-02 16:16:24.213614,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-02 16:16:24.788717,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-02 16:16:25.378046,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-02 16:16:25.389214,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-02 16:16:25.904969,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-02 16:16:25.913884,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-02 16:16:26.464084,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-02 16:16:27.013810,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-02 16:16:28.423636,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-02 16:16:32.213756,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-02 16:16:32.767028,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-02 16:16:33.308804,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-02 16:16:33.847088,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-02 16:16:34.383684,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:16:34.984024,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-02 16:16:35.524020,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:35.895707,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:36.353487,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:36.693663,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:37.065152,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:37.404198,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:37.788137,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:38.133028,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:38.529891,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:38.951727,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:39.354957,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:39.750177,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:40.101785,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:40.464914,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:42.696136,surprise,No task suggestion available.,No
+EMP005,2025-04-16 10:16:43.037145,surprise,No task suggestion available.,No
+EMP005,2025-04-16 10:16:43.765454,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-04-16 10:16:44.388887,angry,Pause and do a relaxation exercise.,Yes
+EMP005,2025-04-16 10:16:44.809738,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:16:45.175810,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-04-16 10:16:45.536519,angry,Pause and do a relaxation exercise.,Yes
+EMP005,2025-04-16 10:16:45.949272,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:46.321214,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:46.710246,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:47.092937,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:47.494918,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:47.885810,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:48.242296,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:48.617154,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:49.014617,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:49.451909,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:49.833811,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-04-16 10:16:50.238710,surprise,No task suggestion available.,No
+EMP005,2025-04-16 10:16:50.621398,surprise,No task suggestion available.,No
+EMP005,2025-04-16 10:16:50.983291,surprise,No task suggestion available.,No
+EMP005,2025-04-16 10:16:51.371009,surprise,No task suggestion available.,No
+EMP005,2025-04-16 10:16:51.719939,surprise,No task suggestion available.,No
+EMP005,2025-04-16 10:16:52.138140,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:52.146915,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-04-16 10:16:52.513773,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:52.896948,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:16:53.253113,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:53.625015,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:53.992786,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:54.377548,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:54.788575,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:55.139337,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:55.505209,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:55.851428,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:56.213993,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:56.613792,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:57.034611,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:57.442291,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:57.832163,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:58.187162,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:16:58.556304,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-04-16 10:16:58.993845,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-04-16 10:16:59.393383,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-04-16 10:16:59.766324,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-04-16 10:17:00.139205,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-04-16 10:17:00.500676,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-04-16 10:17:00.877493,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-04-16 10:17:01.233130,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-04-16 10:17:01.261382,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:01.631851,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:01.998522,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:02.355326,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:02.717971,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:03.076287,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:03.435613,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:03.814932,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:04.186500,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:04.542245,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:04.902348,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:05.378571,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:05.744763,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:06.111546,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:06.482748,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:06.845154,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:07.220217,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:07.241208,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:07.648959,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:08.033581,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:08.385312,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:08.783070,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:09.178499,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:09.568999,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:10.163712,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:10.540556,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:10.898007,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:11.243654,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:11.637012,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:11.992702,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:12.358406,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:12.708499,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:13.074117,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:13.425250,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:13.775033,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:14.107553,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:14.479367,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:14.819897,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:15.154798,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:15.533850,angry,Pause and do a relaxation exercise.,Yes
+EMP005,2025-04-16 10:17:15.955132,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:16.384305,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:16.770416,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:17.156116,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:17.517080,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:17.880663,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:18.253875,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:18.633584,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:19.075854,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:19.477934,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:19.838618,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:20.265987,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:20.698828,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:21.080134,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:21.446297,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:21.890558,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:22.294317,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:22.697370,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:23.090433,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:23.475593,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:23.869421,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:24.264037,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:24.662339,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:25.088748,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:25.478632,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:25.854387,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:26.234738,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:26.631911,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:26.976465,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:27.388263,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:27.778499,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:28.171978,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:28.605238,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:28.996105,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:29.357354,angry,Pause and do a relaxation exercise.,Yes
+EMP005,2025-04-16 10:17:29.775471,fear,No task suggestion available.,No
+EMP005,2025-04-16 10:17:30.142222,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:30.480234,fear,No task suggestion available.,No
+EMP005,2025-04-16 10:17:30.831123,fear,No task suggestion available.,No
+EMP005,2025-04-16 10:17:31.202546,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:31.535449,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:31.933531,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:32.333076,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:32.714074,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:33.121654,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:33.485033,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:33.893082,fear,No task suggestion available.,No
+EMP005,2025-04-16 10:17:34.250265,fear,No task suggestion available.,No
+EMP005,2025-04-16 10:17:34.604814,fear,No task suggestion available.,No
+EMP005,2025-04-16 10:17:34.952904,fear,No task suggestion available.,No
+EMP005,2025-04-16 10:17:35.333761,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:35.690345,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:36.088263,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:36.498415,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:36.914243,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:37.320645,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:37.715366,fear,No task suggestion available.,No
+EMP005,2025-04-16 10:17:38.107799,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:38.508061,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:38.905291,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:39.304361,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:39.732436,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:40.180287,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:40.567772,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:40.982661,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:41.400570,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:41.812918,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:42.169108,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:42.526910,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:42.891698,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:43.295546,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:43.689408,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:44.049650,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:44.463413,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:44.859707,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:45.231958,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:45.583130,angry,Pause and do a relaxation exercise.,Yes
+EMP005,2025-04-16 10:17:45.949106,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:46.334896,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:46.713223,sad,Take a short break or engage in light tasks.,Yes
+EMP005,2025-04-16 10:17:47.135725,angry,Pause and do a relaxation exercise.,Yes
+EMP005,2025-04-16 10:17:47.512027,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-04-16 10:17:47.893872,happy,Continue current work or collaborate on new ideas.,No
+EMP005,2025-04-16 10:17:48.291528,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:48.672777,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:49.039987,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:49.404005,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:49.805405,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:50.209038,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:50.570364,neutral,Maintain workflow or take a short check-in.,No
+EMP005,2025-04-16 10:17:51.048328,neutral,Maintain workflow or take a short check-in.,No
+EMP001,2025-04-23 18:06:21.369483,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:22.070881,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:22.506734,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-23 18:06:22.994665,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:23.563524,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:23.997622,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:24.435643,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:24.863590,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:25.269612,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:25.715968,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-23 18:06:26.156406,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:26.566758,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:26.994170,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:27.394038,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:27.803283,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:28.260758,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:28.657629,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:29.054381,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:29.447482,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:29.813345,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:30.224454,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-23 18:06:30.649861,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:31.155338,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:31.643628,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-23 18:06:32.017461,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:32.493983,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:32.967722,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:33.399695,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:33.817770,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:34.210685,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:34.633241,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-23 18:06:35.044708,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:35.427706,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:35.832622,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:36.297713,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:36.714684,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:37.133511,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:37.616979,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:38.052955,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:38.521086,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:39.017095,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:39.526477,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:39.993262,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-23 18:06:40.465641,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:40.925492,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:41.643572,angry,Pause and do a relaxation exercise.,Yes
+EMP001,2025-04-23 18:06:42.083675,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:42.493606,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:43.077852,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:43.583567,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:44.044844,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:44.494531,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:44.904596,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:45.323639,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:45.743573,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:46.117789,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-23 18:06:46.533812,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:46.967927,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:47.450793,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:47.893579,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:48.349372,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:48.751387,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:49.137773,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:49.520885,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:49.982574,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:50.728061,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:50.753849,happy,Continue current work or collaborate on new ideas.,No
+EMP001,2025-04-23 18:06:51.514982,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:51.950555,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:52.415683,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:52.873702,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:53.269532,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:53.703577,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:54.124207,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:54.553682,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:54.979657,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:55.463627,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:55.903649,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:56.879501,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:57.313380,sad,Take a short break or engage in light tasks.,Yes
+EMP001,2025-04-23 18:06:57.803468,neutral,Maintain workflow or take a short check-in.,No
