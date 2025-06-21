@@ -1,5 +1,4 @@
 ## **Project Summary**
-AI-Powered Emotion Recommender is an intelligent system designed to detect employee emotions through facial expressions and provide task recommendations based on mood. The system aims to optimize productivity and well-being by suggesting tasks according to emotional state and alerting managers when stress or negative emotions are detected.
 
 ## **Features:**
 
